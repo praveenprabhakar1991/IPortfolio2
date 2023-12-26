@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/static/js/main.2bf4aec4.js",
+    "static/media/Developer.png": "/static/media/Developer.7202df70d9ff5df8099c.png",
+    "static/media/Newsapp.png": "/static/media/Newsapp.e9a18419e4c94d6d81e4.png",
+    "static/media/IPort.png": "/static/media/IPort.73e332f650ac20ca64b1.png",
+    "static/media/Product.png": "/static/media/Product.5dd33e88545d0837c632.png",
+    "static/media/Premierpro.png": "/static/media/Premierpro.7a6f0e95baf661594c2b.png",
+    "static/media/Photoshop.png": "/static/media/Photoshop.3e6f1fd6002595fbe0c9.png",
+    "static/media/Illustrator.png": "/static/media/Illustrator.edc4d5f3c1c1ffd2203f.png",
+    "static/media/IPorttransport.png": "/static/media/IPorttransport.83192d796f9f78465160.png",
+    "static/media/Aftereffects.png": "/static/media/Aftereffects.d51acf148c779e72e83e.png",
+    "static/media/User.png": "/static/media/User.279b62639a5c2688f644.png",
+    "static/media/MusicApp.png": "/static/media/MusicApp.4c47530602c028e57f98.png",
+    "static/media/Bootstrap.png": "/static/media/Bootstrap.5d76e459311c208cae53.png",
+    "static/media/Textanalyzer.png": "/static/media/Textanalyzer.93bcb0d1e0cafba93660.png",
+    "static/media/React.png": "/static/media/React.27e4d46e05ea8f875974.png",
+    "static/media/Redux.png": "/static/media/Redux.45d7679429041c54e245.png",
+    "static/media/Mysql.png": "/static/media/Mysql.16a6a73d6d2e8c5d0b17.png",
+    "static/media/MongoDb.png": "/static/media/MongoDb.d6cb2f68d6072523f388.png",
+    "static/media/Calculator.png": "/static/media/Calculator.be154e3b14e874d44710.png",
+    "static/media/CSS.png": "/static/media/CSS.1bb8361cdffcb1057147.png",
+    "static/media/Javascript.png": "/static/media/Javascript.d4577bdfd60dd24e8de6.png",
+    "static/media/Django.png": "/static/media/Django.b34510e9ebd265723567.png",
+    "static/media/HTML.png": "/static/media/HTML.b4537cd4bb15d7969a3e.png",
+    "static/media/Python.png": "/static/media/Python.e047f6f4485556520a4b.png",
+    "static/media/Github.png": "/static/media/Github.e91e44139b39715df4a6.png",
+    "static/media/Git.png": "/static/media/Git.49ae8bb22dffa3cc3edb.png",
+    "index.html": "/index.html",
+    "main.2bf4aec4.js.map": "/static/js/main.2bf4aec4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2bf4aec4.js"
+  ]
+}
